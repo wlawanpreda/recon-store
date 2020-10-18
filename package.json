@@ -8,6 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material/textfield": "^7.0.0",
+    "firebase": "^7.24.0",
+    "firebase-tools": "^8.12.1",
+    "global": "^4.4.0",
+    "jshint": "^2.12.0",
     "next": "9.5.5",
     "react": "16.14.0",
     "react-dom": "16.14.0"
